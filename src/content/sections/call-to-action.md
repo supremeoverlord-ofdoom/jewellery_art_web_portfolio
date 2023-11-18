@@ -1,10 +1,11 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "Hey There!"
+subtitle: "Welcome to the Studio"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Lorem ipsum dolor sit amet. Est natus dolorum est iste voluptatem ut nesciunt expedita id omnis voluptatibus et quas reprehenderit ut omnis sint ut officiis perspiciatis!"
 button:
   enable: true
-  label: "Get Started Now"
+  label: View portfolio
   link: "https://github.com/zeon-studio/astroplate"
 ---

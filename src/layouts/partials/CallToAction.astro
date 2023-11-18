@@ -25,6 +25,10 @@ const { call_to_action } = Astro.props;
                 set:html={markdownify(call_to_action.data.title)}
                 class="mb-2"
               />
+              <h3
+                set:html={markdownify(call_to_action.data.subtitle)}
+                class="mb-3"
+              />
               <p
                 set:html={markdownify(call_to_action.data.description)}
                 class="mb-6"
