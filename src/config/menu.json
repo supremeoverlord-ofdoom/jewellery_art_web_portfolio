@@ -9,14 +9,18 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Jewellery Portfolio",
+      "url": "/portfolio"
     },
     {
-      "name": "Pages",
+      "name": "Info",
       "url": "",
       "hasChildren": true,
       "children": [
+        {
+          "name": "Stockists",
+          "url": "/stockists"
+        },
         {
           "name": "Contact",
           "url": "/contact"
@@ -40,14 +44,18 @@
         {
           "name": "404 Page",
           "url": "/404"
+        },
+        {
+          "name": "Elements",
+          "url": "/elements"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Stockists",
+      "url": "/stockists"
     },
     {
       "name": "Privacy Policy",
